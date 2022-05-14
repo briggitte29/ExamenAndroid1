@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eje1">Calcular el total que una persona debe pagar en una llantería, si el precio
+de cada llanta es de S/. 800 si se compran menos de 5 llantas y de S/. 700
+si se compran 5 o más, ingrese la cantidad a comprar.</string>
+    <string name="eje2"> Ingresar un número entero de 3 cifras y muestre el número de unidades,
+decenas que lo componen.</string>
+    <string name="eje3"> Ingrese un número natural y muestre el mensaje “Es perfecto” o “No es
+perfecto” según sea el caso.</string>
+    <string name="eje4"> Ingresar un número de 4 dígitos y sumar cada uno de sus dígitos. </string>
+</resources>

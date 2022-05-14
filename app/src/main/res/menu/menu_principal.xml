@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pc1"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="E1"/>
+
+    <item
+        android:id="@+id/pc2"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="E2"/>
+
+    <item
+        android:id="@+id/pc3"
+        android:icon="@drawable/ic_baseline_looks_3_24"
+        android:title="E3"/>
+
+    <item
+        android:id="@+id/pc4"
+        android:icon="@drawable/ic_baseline_looks_4_24"
+        android:title="E4"/>
+
+</menu>
